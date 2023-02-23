@@ -21,7 +21,7 @@ Notifications tab (replied to you, followed you, like your pic, retweeted)
 
 
 Tech Used
-------=-----
+-----------
 Server: Appwrite Auth, Appwrite Storage, Appwrite Database, Appwrite Realtime
 
 Client: Flutter, Riverpod
